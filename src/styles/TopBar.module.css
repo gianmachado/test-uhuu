@@ -1,0 +1,13 @@
+.content {
+  display: flex;
+  padding: 1.5rem 2rem;
+
+  justify-content: space-between;
+  align-items: center;
+
+  box-shadow: 0 0 60px rgb(0 0 0 / 20%);
+}
+
+.content svg {
+  cursor: pointer;
+}
